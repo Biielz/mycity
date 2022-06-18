@@ -1,0 +1,45 @@
+.geral {
+    margin: auto;
+    width: 900px;
+    background-color: rosybrown;
+}
+
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    background-color: burlywood;
+}
+
+.body {
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+.locais {
+    margin: 0;
+    width: 600px;
+    float: right;
+}
+
+.local1 {
+    float: inline-end;
+    border-color: black white black white;
+    border: 1px solid white;
+    width: 250px;
+}
+
+.local2 {
+    margin: auto;
+    width: 250px;
+    border-color: black white black white;
+
+}
+
+.videozin {
+    float: inline-start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+
+}
